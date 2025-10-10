@@ -1,65 +1,25 @@
-# Hi there 👋, I’m Mohammad Arafat Chowdhury
+<h1 align="center">Hi 👋, I'm Mohammad arafat chowdhury</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mdarafatchowdhury&label=Profile%20views&color=0e75b6&style=flat" alt="mdarafatchowdhury" /> </p>
 
-**🔧 About Me**  
-- I’m a **fast learner** with a passion for exploring new technologies in the IT sector  
-- Based in **Dhaka, Bangladesh**
-- Currently I work in **RanksITT ISP-IGW** Company as a assistant network engineer   
-- I like building, testing, and improving systems  
-- Always open to collaboration and new challenges  
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mdarafatchowdhury" alt="mdarafatchowdhury" /></a> </p>
 
----
+- 🔭 I’m currently working on **RanksITT**
 
-## 🛠️ Skills & Technologies
+- 👯 I’m looking to collaborate on **SQA Projects**
 
-Here are some of the languages, tools, and frameworks I work with:  
+- 📫 How to reach me **arafatr234@gmail.com**
 
-| Area | Technologies / Tools | Proficiency |
-|------|------------------------|-------------|
-| Backend / Systems | `Python` ![Python](https://img.shields.io/badge/python-3776AB?logo=python&logoColor=white) | Intermediate |
-| Scripting & Automation | `Bash` ![Bash](https://img.shields.io/badge/bash-4EAA25?logo=gnu-bash&logoColor=white) | Intermediate |
-| Networking / Security | VPN, SSL/TLS, Firewalls | Basic / Intermediate |
-| Testing / QA | Manual test cases, Test Planning, Bug reporting | Intermediate |
-| Version control & CI | Git, GitHub Actions, CI pipelines | Intermediate |
+- 📄 Know about my experiences [Networking , IT , QA , Systems support](Networking , IT , QA , Systems support)
 
-> *Note: replace or add icons for your actual skills. You can use shields.io or icon libraries (DevIcons, Readme-Icons, etc.).*
-
----
-
-## 📈 GitHub Statistics
-
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Mdarafatchowdhury&show_icons=true&theme=radical)](https://github.com/Mdarafatchowdhury)
-
----
-
-## 🔗 Connect with Me
-
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://github.com/Mdarafatchowdhury" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" alt="GitHub"></a>
-  <a href="https://www.linkedin.com/in/your-linkedin" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:your.email@example.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
----
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
 
-## 📝 Latest Projects
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mdarafatchowdhury&show_icons=true&locale=en&layout=compact" alt="mdarafatchowdhury" /></p>
 
-| Project | Description |
-|--------|--------------|
-| **sysmplex_VPN_test_case** | Manual test cases for Sysmplex VPN, focusing on reliability, stability, edge-cases |
-| **Arafat-API-Testing-dummy.restapiexample.com** | Simple API testing project
-|**Jmeter_arafat_saucedemo.com**                  | Jmeter project 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mdarafatchowdhury&show_icons=true&locale=en" alt="mdarafatchowdhury" /></p>
 
----
-
-## 🧭 My Journey & Goals
-
-- Started exploring IT & testing early  
-- Worked on VPN testing, networking, manual test designs  
-- I aim to dive deeper into **automation**, **security testing**, and **infrastructure / systems**  
-- Want to contribute to open source and learn from the developer community  
-
----
-
-> “Strive not to be a success, but rather to be of value.” — Albert Einstein  
-
----
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mdarafatchowdhury&" alt="mdarafatchowdhury" /></p>
