@@ -45,7 +45,8 @@ Here are some of the languages, tools, and frameworks I work with:
 | Project | Description |
 |--------|--------------|
 | **sysmplex_VPN_test_case** | Manual test cases for Sysmplex VPN, focusing on reliability, stability, edge-cases |
-| (Add more) | (Your other project and brief description) |
+| **Arafat-API-Testing-dummy.restapiexample.com** | Simple API testing project
+|**Jmeter_arafat_saucedemo.com**                  | Jmeter project 
 
 ---
 
@@ -61,12 +62,3 @@ Here are some of the languages, tools, and frameworks I work with:
 > “Strive not to be a success, but rather to be of value.” — Albert Einstein  
 
 ---
-
-**⚙️ How to Use / Customize**  
-1. Create a repository named exactly as your GitHub username (e.g. `Mdarafatchowdhury`).  
-2. Add a `README.md` file (this content).  
-3. Replace the placeholder text, links, and icons with your own.  
-4. Update your skills, projects, and stats link.  
-
-Let me know if you want me to build a version fully customized for *your* actual skills & projects (with real icons) — I can generate that for you!
-::contentReference[oaicite:1]{index=1}
