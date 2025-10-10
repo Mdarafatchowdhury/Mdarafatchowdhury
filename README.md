@@ -2,7 +2,8 @@
 
 **🔧 About Me**  
 - I’m a **fast learner** with a passion for exploring new technologies in the IT sector  
-- Based in **Dhaka, Bangladesh**  
+- Based in **Dhaka, Bangladesh**
+- Currently I worked in RanksITT ISP-IGW Company as a assistant network engineer   
 - I like building, testing, and improving systems  
 - Always open to collaboration and new challenges  
 
