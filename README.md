@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **SQA Projects**
 
-- 📫 How to reach me **arafatr234@gmail.com**
+- 📫 How to reach me **arafatr234@gmail.com** **whats app: +8801719873719**
 
 - 📄 Know about my experiences [Networking , IT , QA , Systems support](Networking , IT , QA , Systems support)
 
