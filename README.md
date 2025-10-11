@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **arafatr234@gmail.com** **whats app: +8801719873719**
 
-- 📄 Know about my experiences [Networking , IT , QA , Systems support](Networking , IT , QA , Systems support)
+- 📄 Know about my experiences [Networking , IT , QA , Systems support]
 
 <h3 align="left">Connect with me: Facebook: https://www.facebook.com/arafatc1/ </h3>
 <p align="left">
