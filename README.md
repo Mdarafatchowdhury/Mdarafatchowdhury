@@ -1,11 +1,11 @@
 <h1 align="center">Hellow 👋, I'm Mohammad arafat chowdhury</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mdarafatchowdhury&label=Profile%20views&color=0e75b6&style=flat" alt="mdarafatchowdhury" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mdarafatchowdhury&label=Profile%20views&color=0e75b6&style=flat" > </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mdarafatchowdhury" alt="mdarafatchowdhury" /></a> </p>
 
-- 🔭 I’m currently working on **RanksITT** as a **Assistant network engineer** web:-- https://www.ranksitt.net/
 
-- 👯 I’m looking to collaborate on **SQA & IT Projects**
+- 🔭 I’m currently working on **RanksITT** as a **Assistant network engineer** https://www.ranksitt.net/
+
+- 👯 I’m looking to collaborate on **SQA Projects**
 
 - 📫 How to reach me **arafatr234@gmail.com** **whats app: +8801719873719**
 
@@ -20,6 +20,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mdarafatchowdhury&show_icons=true&locale=en&layout=compact" alt="mdarafatchowdhury" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mdarafatchowdhury&show_icons=true&locale=en&layout=compact" alt="mdarafatchowdhury" /></p>
 
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mdarafatchowdhury&show_icons=true&locale=en&layout=compact" alt="mdarafatchowdhury" /></p
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?username=mdarafatchowdhury&show_icons=true&locale=en&layout=compact" alt="mdarafatchowdhury" /></p>
