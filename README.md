@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mdarafatchowdhury" alt="mdarafatchowdhury" /></a> </p>
 
-- 🔭 I’m currently working on **RanksITT** as a **Assistant network engineer** https://www.ranksitt.net/
+- 🔭 I’m currently working on **RanksITT** as a **Assistant network engineer** web:-- https://www.ranksitt.net/
 
-- 👯 I’m looking to collaborate on **SQA Projects**
+- 👯 I’m looking to collaborate on **SQA & IT Projects**
 
 - 📫 How to reach me **arafatr234@gmail.com** **whats app: +8801719873719**
 
